@@ -1,2 +1,2 @@
-# INPE Dataset Analysis
-INPE dataset analysis with KDD
+# INEP Dataset Analysis
+INEP dataset analysis with KDD
